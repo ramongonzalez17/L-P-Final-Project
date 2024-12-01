@@ -1,12 +1,12 @@
-Player,Rating
-Rodri,8.12
-Bukayo Saka,7.97
-Phil Foden,7.83
-Bruno Fernandes,7.83
-Cole Palmer,7.78
-Michael Olise,7.71
-Declan Rice,7.66
-Bruno Guimaraes,7.65
+Player,Rating,Goals+Assist
+Rodri,8.12,
+Bukayo Saka,7.97,
+Phil Foden,7.83,
+Bruno Fernandes,7.83,
+Cole Palmer,7.78,
+Michael Olise,7.71,
+Declan Rice,7.66,
+Bruno Guimaraes,7.65,
 Erling Haaland,7.64
 Mohamed Salah,7.64
 Martin Ødegaard,7.64
