@@ -6,13 +6,11 @@ data_file = "data/salaries.csv"
 old = "data/salaries.csv"
 
 
-# Read the file contents
 with open(data_file, "r") as file:
     lines = file.readlines()
 
 player_data = []
 
-# Process the lines to extract player name and rating
 i = 0  # Start from the first line
 while i < len(lines):
     name = lines[i].strip()  # First line is the player's name

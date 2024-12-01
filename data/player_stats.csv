@@ -61,7 +61,7 @@ Harry Maguire,7.18,,4
 Nicolas Jackson,7.18,,19
 Antonee Robinson,7.17,,6
 Alfie Doughty,7.16,,10
-Ibrahima Konaté,7.16,,N/A
+Ibrahima Konaté,7.16,,0.5
 Casemiro,7.16,,3
 Dwight McNeil,7.16,,9
 Darwin Nunez,7.16,,19
@@ -69,7 +69,7 @@ Jefferson Lerma,7.15,,2
 Joao Palhinha,7.15,,5
 James Garner,7.15,,3
 Leon Bailey,7.14,,19
-Ruben Dias,7.14,,N/A
+Ruben Dias,7.14,,0.5
 Josh Cullen,7.13,,5
 Malo Gusto,7.13,,6
 James Tarkowski,7.13,,2
@@ -96,12 +96,12 @@ Tyrick Mitchell,7.07,,5
 Willy Boly,7.07,,3
 Vitalii Mykolenko,7.06,,2
 Alex Iwobi,7.06,,7
-Yves Bissouma,7.06,,N/A
+Yves Bissouma,7.06,,0.5
 Boubacar Kamara,7.06,,1
 Joao Pedro,7.06,,12
 Dominic Solanke,7.05,,22
 Harvey Elliott,7.05,,9
-Jan Paul van Hecke,7.05,,N/A
+Jan Paul van Hecke,7.05,,0.5
 Moisés Caicedo,7.05,,4
 Callum Hudson-Odoi,7.04,,9
 Amadou Onana,7.04,,2
@@ -135,12 +135,12 @@ Kobbie Mainoo,6.95,,4
 Jean-Philippe Mateta,6.95,,21
 Tomas Soucek,6.95,,9
 Emerson,6.94,,3
-Guglielmo Vicario,6.94,,N/A
+Guglielmo Vicario,6.94,,0.5
 Mykhaylo Mudryk,6.94,,7
-Alphonse Areola,6.94,,N/A
-Jordan Pickford,6.94,,N/A
+Alphonse Areola,6.94,,0.5
+Jordan Pickford,6.94,,0.5
 Nicolás Dominguez,6.93,,4
-Ederson Moraes,6.93,,N/A
+Ederson Moraes,6.93,,0.5
 Nélson Semedo,6.93,,1
 Ethan Pinnock,6.93,,2
 Pau Torres,6.93,,2
@@ -149,21 +149,21 @@ Chris Wood,6.91,,15
 Luis Sinisterra,6.91,,4
 Ola Aina,6.91,,2
 Daniel Burn,6.90,,4
-Emiliano Martinez,6.90,,N/A
+Emiliano Martinez,6.90,,0.5
 Max Kilman,6.90,,2
 Toti Gomes,6.90,,4
 Andreas Pereira,6.89,,10
-Igor,6.89,,N/A
+Igor,6.89,,0.5
 Moussa Diaby,6.89,,14
 Anthony Elanga,6.89,,14
-David Raya,6.88,,N/A
+David Raya,6.88,,0.5
 Tom Cairney,6.88,,5
 Antoine Semenyo,6.88,,10
 Sander Berge,6.88,,3
 Scott McTominay,6.88,,8
 Craig Dawson,6.87,,2
 Timothy Castagne,6.86,,4
-Andre Onana,6.86,,N/A
+Andre Onana,6.86,,0.5
 Wilson Odobert,6.86,,5
 Lucas Digne,6.86,,4
 Jonny Evans,6.85,,1
@@ -199,14 +199,14 @@ Raphaël Varane,6.76,,1
 Billy Gilmour,6.75,,1
 Odsonne Edouard,6.75,,7
 Issa Kaboré,6.74,,2
-Djordje Petrovic,6.73,,N/A
+Djordje Petrovic,6.73,,0.5
 Vladimir Coufal,6.73,,7
 José Sá,6.73,,1
 Joel Veltman,6.72,,2
 Valentino Livramento,6.72,,1
 Adam Smith,6.71,,2
 Frank Onyeka,6.71,,3
-Alisson Becker,6.70,,N/A
+Alisson Becker,6.70,,0.5
 Jeffrey Schlupp,6.70,,4
 Justin Kluivert,6.70,,8
 Reece Burke,6.70,,4
@@ -216,14 +216,14 @@ Dara O'Shea,6.68,,7
 Jacob Bruun Larsen,6.68,,6
 Edward Nketiah,6.67,,7
 Raul Jiménez,6.67,,7
-Neto,6.67,,N/A
-Ashley Young,6.67,,N/A
+Neto,6.67,,0.5
+Ashley Young,6.67,,0.5
 Lloyd Kelly,6.67,,1
-Thomas Doyle,6.67,,N/A
+Thomas Doyle,6.67,,0.5
 Illia Zabarnyi,6.67,,1
 Johann Berg Gudmundsson,6.67,,4
 Mikkel Damsgaard,6.66,,2
-James Trafford,6.66,,N/A
+James Trafford,6.66,,0.5
 Christian Eriksen,6.65,,3
 Alex Scott,6.65,,2
 Philip Billing,6.65,,4
@@ -234,13 +234,13 @@ Keane Lewis-Potter,6.63,,4
 Lyle Foster,6.63,,8
 James McAtee,6.63,,6
 Sasa Lukic,6.62,,1
-Pierre-Emile Højbjerg,6.62,,N/A
-Bernd Leno,6.62,,N/A
+Pierre-Emile Højbjerg,6.62,,0.5
+Bernd Leno,6.62,,0.5
 Rodrigo Bentancur,6.62,,2
 Charlie Taylor,6.62,,2
 Facundo Buonanotte,6.62,,4
 Michail Antonio,6.61,,8
-Martin Dubravka,6.61,,N/A
+Martin Dubravka,6.61,,0.5
 Matt Doherty,6.61,,1
 Neal Maupay,6.61,,9
 Joel Ward,6.60,,1
@@ -251,35 +251,35 @@ Zeki Amdouni,6.60,,6
 Elijah Adebayo,6.59,,10
 Jayden Bogle,6.59,,3
 Jordan Clark,6.58,,2
-Amari'i Bell,6.58,,N/A
+Amari'i Bell,6.58,,0.5
 Mads Roerslev,6.58,,3
 Tahith Chong,6.57,,4
 Moussa Niakhaté,6.57,,1
 Mark Flekken,6.56,,1
 Nayef Aguerd,6.56,,1
-Sam Johnstone,6.56,,N/A
-Carlos Baleba,6.56,,N/A
+Sam Johnstone,6.56,,0.5
+Carlos Baleba,6.56,,0.5
 Andros Townsend,6.55,,4
 Milos Kerkez,6.54,,1
 Teden Mengi,6.54,,1
 Kurt Zouma,6.54,,3
-Bart Verbruggen,6.54,,N/A
+Bart Verbruggen,6.54,,0.5
 Evan Ferguson,6.52,,6
 Gabriel Osho,6.50,,2
 Cameron Archer,6.49,,5
 Jacob Brown,6.49,,2
 Jean-Ricner Bellegarde,6.48,,3
-Thomas Kaminski,6.47,,N/A
-Diego Carlos,6.45,,N/A
+Thomas Kaminski,6.47,,0.5
+Diego Carlos,6.45,,0.5
 Vitinho,6.44,,2
-Wesley Foderingham,6.44,,N/A
+Wesley Foderingham,6.44,,0.5
 Ben Osborn,6.43,,2
-Yegor Yarmolyuk,6.39,,N/A
+Yegor Yarmolyuk,6.39,,0.5
 Jack Robinson,6.38,,2
 Beto,6.35,,3
-Andre Brooks,6.33,,N/A
+Andre Brooks,6.33,,0.5
 Adam Lallana,6.29,,1
 Nicolo Zaniolo,6.26,,2
-Auston Trusty,6.25,,N/A
-Pelly-Ruddock Mpanzu,6.21,,N/A
+Auston Trusty,6.25,,0.5
+Pelly-Ruddock Mpanzu,6.21,,0.5
 Anel Ahmedhodzic,6.19,,2

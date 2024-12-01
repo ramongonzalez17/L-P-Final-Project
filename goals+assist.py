@@ -31,7 +31,7 @@ with open(original_file, "r") as file:
         if name in goals_assists_data:
             row["Goals+Assists"] = goals_assists_data[name]  
         else:
-            row["Goals+Assists"] = "N/A"  
+            row["Goals+Assists"] = .5  
         updated_data.append(row)
 
 output_file = "data/players_ratings_updated.csv"
