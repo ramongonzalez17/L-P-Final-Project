@@ -1,6 +1,6 @@
 import csv
 
-original_file = "data/players_ratings.csv" 
+original_file = "data/player_stats.csv" 
 new_file = "data/salaries.csv"  
 
 original_names = []
