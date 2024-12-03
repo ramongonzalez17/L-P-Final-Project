@@ -38,8 +38,11 @@ print("Regression Intercept:", regressor.intercept_)
 # Step 6: Visualize PCA Components
 plt.figure(figsize=(8, 6))
 plt.scatter(pca_df["PC1"], pca_df["PC2"], alpha=0.8)
+
+"""
 for i, player in enumerate(df["Player"]):
     plt.annotate(player, (pca_df["PC1"][i], pca_df["PC2"][i]))
+"""
 plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")
 plt.title("PCA Results")
